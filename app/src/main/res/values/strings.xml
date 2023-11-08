@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploGeneralDEfinitivo</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="texto_enviar">Texto a enviar</string>
+</resources>
