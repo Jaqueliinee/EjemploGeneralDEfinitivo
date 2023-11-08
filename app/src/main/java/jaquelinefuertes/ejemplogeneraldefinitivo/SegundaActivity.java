@@ -30,7 +30,7 @@ public class SegundaActivity extends AppCompatActivity {
         binding.btnEnviarSegunda.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //enviar info a la
+                //enviar info a la primera
                 Intent intent1 = new Intent();
                 Bundle mochila = new Bundle();
                 mochila.putString("TXT", binding.txtEnviarSegunda.getText().toString());
